@@ -9,3 +9,5 @@
 [protabo](https://www.protabo.de/kostenlos-lebensmittelhygieneschulung-ifsg-belehrung/) wird irgendwie [nicht empfohlen](https://chaos.social/@C3Kidspace/110827078789682656)
 
 https://www.stuttgart.de/organigramm/leistungen/belehrung-fuer-beschaeftigte-im-lebensmittelbereich-nach-43-infektionsschutzgesetz-gesundheitszeugnis-.php
+
+https://www.hameln-pyrmont.de/Infektionsschutzbelehrung
