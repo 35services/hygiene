@@ -1,5 +1,6 @@
 # hygiene
 
+- 35services brauch sowas wohl nicht - weil wir nicht regelmäßifg und hauptsächlich Essen anbieten
 
 - https://www.gesundheitszeugnis-direkt.de/s/ba-direkt/erstbelehrung-kurs
    - wurde im Kontext des #cccamp23 empfohlen 
